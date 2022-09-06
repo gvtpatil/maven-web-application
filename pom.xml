@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://192.168.186.145:9980/ravitech/repository/flipkart-release/</url>
+	      <url>http://192.168.186.157:9081/ravitech/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.186.145:9980/ravitech/repository/flipkart-snapshot/</url>
+	      <url>http://192.168.186.157:9081/ravitech/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
