@@ -1,4 +1,4 @@
-node('node1')
+node
 {
 
 def mavenHome = tool name: "maven3.6.2"
@@ -26,7 +26,7 @@ stage('UploadArtifactIntoNexus')
  
  
  
- stage('SendEmailNotiifcation')
+ /*stage('SendEmailNotiifcation')
  {
 emailext body: '''Build completed successfully
 
@@ -35,6 +35,7 @@ emailext body: '''Build completed successfully
 Regards,
 Ravikumar Patil''', subject: 'Build Statu', to: 'roja.rajeshwari@gmail.com'
  }
+ */
 
  
  
