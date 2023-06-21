@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>maven-web-application</name>
 	<!-- demo on GiHub Web - Hooks pushed from ubuntu server as example-->
-	<description>Maven Web Project for Java Project----test ravi-----edited from dev branch for testing</description>
+	<description>explaining POLL SCM ------- from jenkins--------Maven Web Project for Java Project----test ravi-----edited from dev branch for testing</description>
 	<organization>
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
