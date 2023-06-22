@@ -17,7 +17,7 @@
 		<spring.version>5.3.19</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://192.168.235.131:9000/</sonar.host.url>
+		<sonar.host.url>http://192.168.235.132:9000/</sonar.host.url>
 		<sonar.login>squ_3ceb4c906ae44e23c5a7a7ac5bcdc9ba3943f763</sonar.login>
 		<!--<sonar.password>ravi</sonar.password>-->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -95,13 +95,13 @@
 <!--	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://192.168.235.131:9081/ravitech/repository/wm-release/</url>
+	      <url>http://192.168.235.132:9081/ravitech/repository/wm-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.235.131:9081/ravitech/repository/wm-snapshot/</url>
+	      <url>http://192.168.235.132:9081/ravitech/repository/wm-snapshot/</url>
 	    </snapshotRepository>
 -->	    
 	</distributionManagement>
