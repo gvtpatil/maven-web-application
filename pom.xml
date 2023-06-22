@@ -92,7 +92,7 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+<!--	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://192.168.235.131:9081/ravitech/repository/wm-release/</url>
@@ -103,7 +103,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://192.168.235.131:9081/ravitech/repository/wm-snapshot/</url>
 	    </snapshotRepository>
-	    
+-->	    
 	</distributionManagement>
 	
 	<build>
