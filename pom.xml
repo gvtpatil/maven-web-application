@@ -4,10 +4,10 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>maven-web-application</name>
 	<!-- demo on GiHub Web - Hooks pushed from ubuntu server as example-->
-	<description>testing the POLL SCM ------ Maven Web Project for Java Project----test ravi-----edited from dev branch for testing</description>
+	<description>testing the POLL SCM -- Maven Web Project for Java Project----test ravi-----edited from dev branch for testing</description>
 	<organization>
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
